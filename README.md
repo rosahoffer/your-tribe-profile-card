@@ -29,7 +29,7 @@ Bronnen
 
 Fonts
 
-https://fonts.google.com/specimen/Roboto
+https://fonts.google.com/specimen/Montserrat
 
 Licentie
 
