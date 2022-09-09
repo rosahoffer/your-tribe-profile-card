@@ -50,6 +50,12 @@ h1 {
   font-size: 35px;
 }
 
+h3 {
+  margin:2rem 0 1rem;
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
 button {
   border:none;
   position: absolute;
@@ -107,10 +113,10 @@ dl {
     ;
   justify-items:center;
   align-items:start;
-  padding:3em 0 3em;
-  margin-top: -3rem;
+  padding:2em 0 3em 3em;
+  margin-top: -3em;
   margin-bottom: 0;
-  text-align: center;
+  text-align: left;
   border-radius:  0 0 1em 1em;
   color: black;
 }
@@ -273,4 +279,34 @@ body {
   text-align: center;
   /* background-color: #ff7694; */
   color: rgb(0, 0, 0);
+}
+
+.eigenschappen{
+  background-color: #ff7694;
+  margin-top: 3em;
+  border-top-right-radius: 1em;
+  border-bottom-right-radius: 1em;
+}
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #ffffff;
+  border-radius: 50%;
+  color: #ff9d94;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.social-media{
+  background-color: #ff9d94;
+  padding: 1.3em;
+  border-bottom-right-radius: 1em;
+
 }
