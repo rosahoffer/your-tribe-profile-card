@@ -17,6 +17,7 @@ Tools gebruikt:
 
 Sketch
 Visual Studio Code
+
 Code Skills:
 
 HTML
