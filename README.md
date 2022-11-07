@@ -8,6 +8,8 @@ Bekijk hier mijn visitekaartje!: https://rosahoffer.github.io/your-tribe-profile
 
 ***
 
+Elke frontender bij FDND stelt zichzelf binnen de tribe voor door middel van een visitekaartje.
+
 ### Kenmerken
 
 ***
